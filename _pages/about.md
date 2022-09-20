@@ -12,6 +12,15 @@ I am a new assistant professoer at TU Delft in the school of [Electrical Enginee
 
 ![My Image](../images/Dowling_About.png)
 
+Key Topics of Interest
+=========
+Gallium Nitride, Silicon Carbide, Gallium Oxide, Diamond
+Hall Effect Sensors
+Power Semiconductor Devices
+Microelectromechanical Systems (MEMS)
+Microfabrication
+CMOS Compatibility
+
 About Me
 ======
 I grew up in Ann Arbor, Michigan, which is home to the University of Michigan. Desiring nicer weather and ocean-front living, I got my B.S. degree in electrical engineering at the California Institute of Technology in 2013. I then moved up to the SF Bay area and obtained my M.S. and PhD in EE from Stanford University in 2015 and 2019, respectively. My thesis focused on creating high quality magnetometers for extreme environments using Gallium Nitride, as well as some micromachining techniques in Silicon Carbide, both wide bandgap semiconductors. I then was a  postdoc at Lawrence Livermore National Laboratory (LLNL), where I gained perspective on RF opto-electronic power devices known as photo-conductive semiconductor switches. I am now at TU Delft as an assistant professor as of August 2022.  Here, I am excited to combine both my love of sensors for harsh environments with optically coupled conduction mechanisms to open new avenues for high performing microsystems from fundamental research to device development and (someday) deployment.
