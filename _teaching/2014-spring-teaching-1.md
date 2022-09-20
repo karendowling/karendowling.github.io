@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Power Semiconductor Devices and Technology"
 collection: teaching
-type: "Undergraduate course"
+type: "Gradaute Level Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Stanford Univeristy, Department of Electrical Engineering"
+date: Winter 2018 and 2019
+location: "Stanford, CA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I was a teaching assistant for [Prof. Jim Plummer] (https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=EE%20218:%20Power%20Semiconductor%20Devices%20and%20Technology&academicYear=20182019). I assistend in course material development and provided extra guidance at office hours and lecture tutorials.  
