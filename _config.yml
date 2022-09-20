@@ -11,9 +11,9 @@ title                    : "Karen Dowling , PhD"
 title_separator          : "-"
 name                     : &name "Karen Dowling"
 description              : &description "Assistant Professor at Delft University of Technology"
-url                      : https://kdowling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://karendowling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kurnk11n/kdowling.github.io"
+repository               : "karendowling.github.io"
 teaser                   : "Dowling_Headshot.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
