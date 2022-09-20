@@ -2,9 +2,9 @@
 title: "Power Semiconductor Devices and Technology"
 collection: teaching
 type: "Gradaute Level Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/PowerSemi
 venue: "Stanford Univeristy, Department of Electrical Engineering"
-date: 2018
+date: 01-01-2018
 location: "Stanford, CA, USA"
 ---
 
