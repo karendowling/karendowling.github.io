@@ -19,4 +19,4 @@ I grew up in Ann Arbor, Michigan, which is home to the University of Michigan. D
 
 Site Credit
 ------
-This site was created following [AcademicPages Github.io](academicpages.github.io). Many thanks to R.Krishanpriyan for assistance in getting this page started. 
+This site was created following [AcademicPages Github.io](academicpages.github.io). Many thanks to R.Krishnapriyan for assistance in getting this page started. 
