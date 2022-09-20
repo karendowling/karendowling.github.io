@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Merging (Ultra)-Wide bandgap Sensors with Integrated Circuits"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a new assistant professoer at TU Delft in the school of Electrical Engineering, Math, and Computer Science, in the Microelectronics Department. I am embedded in the Electronics Instrumentation Laboratory, with a focus on integrating wide-bandgap materials for high precision and harsh-environment applications with ICs to enable novel microsystems with pratical implementaitons. I have a particular focus on magnetic field sensors that out-pace silicon Hall-effect sensors and survive harsher conditions.  I am hiring PhD student(s) and taking on current MS students for the 2022-23 year and beyond. If your research interests overlap, send me an email!
+
 
 A data-driven personal website
 ======
