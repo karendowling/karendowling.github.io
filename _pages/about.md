@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Merging (Ultra)-Wide bandgap Sensors with Integrated Circuits"
+title: "**M**agnetic (**U**ltra)-Wide bandgap **S**ensors with **I**ntegrated **C**ircuits (MUSIC)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
