@@ -2,9 +2,9 @@
 title: "Tutor"
 collection: teaching
 type: "undegraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/BoominBassTutor
 venue: "Tu Delft, Electrical Engineering"
-date:  09/2022
+date:  01-09-2022
 location: "City, Country"
 ---
 
