@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**M**agnetic (**U**ltra)-Wide bandgap **S**ensors with **I**ntegrated **C**ircuits (MUSIC)"
+title: "Magnetic (Ultra)-Wide bandgap Sensors with Integrated Circuits (MUSIC)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
