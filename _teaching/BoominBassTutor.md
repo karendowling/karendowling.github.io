@@ -4,7 +4,7 @@ collection: teaching
 type: "undegraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Tu Delft, Electrical Engineering"
-date:  2022-23
+date:  09/2022
 location: "City, Country"
 ---
 
