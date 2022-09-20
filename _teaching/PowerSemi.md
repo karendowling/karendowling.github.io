@@ -4,7 +4,7 @@ collection: teaching
 type: "Gradaute Level Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Stanford Univeristy, Department of Electrical Engineering"
-date: Winter 2018 and 2019
+date: 2018
 location: "Stanford, CA, USA"
 ---
 
