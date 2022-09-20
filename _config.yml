@@ -7,7 +7,7 @@
 
 # Site Settings
 theme                     : minimal-mistakes-jekyll
-minimal_mistakes_skin: : "aqua"
+minimal_mistakes_skin : "aqua"
 locale                   : "en-US"
 title                    : "Karen Dowling , PhD"
 title_separator          : "-"
