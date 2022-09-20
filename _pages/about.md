@@ -10,7 +10,7 @@ redirect_from:
 
 I am a new assistant professoer at TU Delft in the school of [Electrical Engineering, Math, and Computer Science](https://www.tudelft.nl/en/eemcs), in the [Microelectronics Department](http://microelectronics.tudelft.nl/). I am embedded in the [Electronics Instrumentation Laboratory](https://ei.et.tudelft.nl/), with a focus on integrating wide-bandgap materials for high precision and harsh-environment applications with ICs to enable novel microsystems with pratical implementations. I have a particular focus on magnetic field sensors that out-pace silicon Hall-effect sensors and survive harsher conditions.  I am hiring PhD student(s) and taking on current MS students for the 2022-23 year and beyond. If your research interests overlap, send me an email!
 
-![altext](karendowling.github.io/images/Dowling_Headshot.jpg)
+![altext](images/Dowling_Headshot.jpg)
 
 About Me
 ======
