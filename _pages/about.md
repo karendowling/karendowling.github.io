@@ -14,12 +14,12 @@ I am a new assistant professoer at TU Delft in the school of [Electrical Enginee
 
 Key Topics of Interest
 =========
-Gallium Nitride, Silicon Carbide, Gallium Oxide, Diamond__
-Hall Effect Sensors__
-Power Semiconductor Devices
-Microelectromechanical Systems (MEMS)
-Microfabrication
-CMOS Compatibility
+Gallium Nitride, Silicon Carbide, Gallium Oxide, Diamond  
+Hall Effect Sensors  
+Power Semiconductor Devices  
+Microelectromechanical Systems (MEMS)  
+Microfabrication  
+CMOS Compatibility  
 
 About Me
 ======
