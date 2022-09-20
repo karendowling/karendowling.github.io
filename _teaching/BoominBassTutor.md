@@ -1,5 +1,5 @@
 ---
-title: "Tutor"
+title: "Faculty Tutor for EE1L11:Booming Bass"
 collection: teaching
 type: "undegraduate course"
 permalink: /teaching/BoominBassTutor
