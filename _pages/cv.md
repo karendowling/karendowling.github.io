@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, California Institute of Technology, 2013
+* M.S. in Electrical Engineering, Stanford University, 2015
+* Ph.D in Electrical Engineering, Stanford University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Research Staff
+  * Lawrence Livermore National Laboratory
+  * 2019-2022
+  * Materials Engineering Division
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Engineering Intern
+  * Infineon Technologies
+  * 2018
+  * PMM Innovation Sensors Group & Industrial Power SiC MOSFETs Group
+
+* Engineering Intern
+  * MIT Lincoln Laboratory
+  * 2015
+  * RF Technology
+
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+2021 – Delft Technology Fellowship
+2019 - NASA Postdoctoral Fellowship, declined
+2018 – Stanford Graduate Internship Experience in Germany Fellowship
+2016 - NSF Power Optimization of Electro-thermal systems Pitch competiton, 2nd place
+2015 – National Science Foundation Graduate Research Fellow
+2015 - NASA Graduate Research Fellowship, declined
+2014 – National Science Foundation Graduate Research Fellowship Program (Honorable Mention)
 
 Publications
 ======
@@ -56,4 +62,14 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Leadership
+2018 - 2019 Stanford EE Faculty Search Committee Member  
+2016 - 2017 NSF Engineering Research Center POETS Student Leadership Council President  
+2015 - 2016 NSF Engineering Research Center POETS Student Leadership Council Member  
+2014 - 2016 Stanford Women in Electrical Engineering Board Member  
+* STEM Outreach
+2021 STEM Superheros Panelist with nano@stanford. for high school students  
+2020 Committee Panel for Career Pathways at POETS Annual Meeting  
+2018 Middle School Activity with Nano Outreach “Making your own Edible wafer”, Stanford SPLASH  
+2017 Guest Lecture “How are Chips Made & Magnetic Sensing in Harsh Environments”, Cañada Community College, Redwood City  
+2016 High School Activity with Women in EE “Build you own Speaker”, Stanford SPLASH  
