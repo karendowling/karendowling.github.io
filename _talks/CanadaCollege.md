@@ -1,5 +1,5 @@
 ---
-title: "How Chips are Made & Magnetic SEnsing in Harsh Environments"
+title: "How Chips are Made & Magnetic Sensing in Harsh Environments"
 collection: talks
 type: "Tutorial"
 permalink: /talks/CanadaCollege
