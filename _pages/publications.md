@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h3>GaN Hall-effect Sensors</h3>
+<h2>GaN Hall-effect Sensors</h2>
 
 {% for post in site.publications reversed %}
   {% if post.category == 'Hall' %}
@@ -19,7 +19,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h3>SiC Micromachining</h3>
+<h2>SiC Micromachining</h2>
 
 {% for post in site.publications reversed %}
   {%if post.category == 'SiCmachine' %}
