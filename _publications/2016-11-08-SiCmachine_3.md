@@ -8,4 +8,5 @@ paperurl: 'https://doi.org/10.1109/JMEMS.2016.2621131'
 citation: 'Dowling, K.M., Ransom, E.H., Senesky, D.G., “Profile Evolution of High Aspect Ratio Silicon Carbide Trenches using Inductive Coupled Plasma Etching”, IEEE Journal of Microelectromechanical Systems, 2017, 26(1), pp. 135-142'
 link: 'https://doi.org/10.1109/JMEMS.2016.2621131'
 category: 'SiCmachine'
-----
+
+---
