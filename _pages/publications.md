@@ -11,6 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
+<h3>GaN Hall-effect Sensors</h3>
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.category == 'Hall' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h3>SiC Micromachining</h3>
+
+{% for post in site.publications reversed %}
+  {%if post.category == 'SiCmachine' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
