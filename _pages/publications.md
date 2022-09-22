@@ -15,6 +15,7 @@ author_profile: true
 <h2>GaN Hall-effect Sensors</h2>
 
 {% for post in site.publications reversed %}
+<p>{{ forloop.index }}</p>
   {% if post.category == 'Hall' %}
 
     {% include archive-single.html %}
