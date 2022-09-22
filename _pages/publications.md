@@ -17,7 +17,7 @@ author_profile: true
 {% for post in site.publications reversed %}
 
   {% if post.category == 'Hall' %}
-{% increment my_counter %} {% include archive-single.html %}
+ {% include archive-single.html %}
  
   {% endif %}
 {% endfor %}
