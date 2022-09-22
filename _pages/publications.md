@@ -11,15 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-{{% increment my_counter %}}
 
 <h2>GaN Hall-effect Sensors</h2>
 
 {% for post in site.publications reversed %}
 
   {% if post.category == 'Hall' %}
-{% increment my_counter %}
-    {% include archive-single.html %}
+{% increment my_counter %} {% include archive-single.html %}
  
   {% endif %}
 {% endfor %}
