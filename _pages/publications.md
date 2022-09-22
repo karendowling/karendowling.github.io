@@ -26,3 +26,35 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+<h2>Photoconductive Semiconductor Switches (PCSS)</h2>
+
+{% for post in site.publications reversed %}
+  {%if post.category == 'PCSS' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>UV Photo Detectors</h2>
+
+{% for post in site.publications reversed %}
+  {%if post.category == 'UVPhoto' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Laser Micromachinig Pressure Sensors</h2>
+
+{% for post in site.publications reversed %}
+  {%if post.category == 'LaserCut' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Other Sensor Activities</h2>
+
+{% for post in site.publications reversed %}
+  {%if post.category == 'Thermo'|| 'Tactile' || 'Package'%}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
