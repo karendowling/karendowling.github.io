@@ -1,7 +1,7 @@
 ---
 title: "Multilayer Etch Masks for 3-Dimensional Fabrication of Robust Silicon Carbide Microstructures"
 collection: publications
-permalink: /publication/2015-01-18-Sicmachine_1
+permalink: /publication/2015-01-18-SiCmachine_1
 date: 2015-01-18
 venue: 'IEEE MEMS Conference'
 paperurl: 'https://doi.org/10.1109/MEMSYS.2015.7050944'
