@@ -54,7 +54,19 @@ author_profile: true
 <h2>Other Sensor Activities</h2>
 
 {% for post in site.publications reversed %}
-  {%if post.category == 'Thermo'|| 'Tactile' || 'Package'%}
+  {%if post.category == 'Thermo'%}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.publications reversed %}
+  {%if post.category ==  'Tactile' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.publications reversed %}
+  {%if post.category == 'Package'%}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
