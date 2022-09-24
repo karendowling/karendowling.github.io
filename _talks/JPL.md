@@ -5,5 +5,5 @@ type: "Talk"
 permalink: /talks/JPL
 venue: "NASA Jet Propulsion Labooratory"
 date: 2019-07-16
-location: "Pasadena,CA USA"
+location: "Pasadena, CA, USA"
 ---
