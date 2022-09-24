@@ -70,6 +70,12 @@ author_profile: true
 {% endfor %}
 
 {% for post in site.publications reversed %}
+  {%if post.category ==  'Pressure' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.publications reversed %}
   {%if post.category == 'Package'%}
     {% include archive-single.html %}
   {% endif %}
