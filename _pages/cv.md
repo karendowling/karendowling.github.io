@@ -44,10 +44,9 @@ Awards
 
 Publications
 ======
-  {% assign i = 0 %}
-  <ul>{% for post in site.publications %}
+  <ol reversed>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 Talks
 ======
