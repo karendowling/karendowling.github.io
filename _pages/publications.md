@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign i = 0 %}
 
 <h2>GaN Hall-effect Sensors</h2>
 
