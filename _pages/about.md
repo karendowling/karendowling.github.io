@@ -28,4 +28,4 @@ I grew up in Ann Arbor, Michigan, USA, which is home to the University of Michig
 
 Site Credit
 ------
-This site was created using [AcademicPages Github.io](academicpages.github.io). Source code is available at [this repo](https://github.com/karendowling/karendowling.github.io). Many thanks to R. Krishnapriyan for assistance in getting this page started. 
+This site was created using [AcademicPages](https://academicpages.github.io). Source code is available at [this repo](https://github.com/karendowling/karendowling.github.io). Many thanks to R. Krishnapriyan for assistance in getting this page started. 
