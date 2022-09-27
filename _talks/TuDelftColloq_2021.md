@@ -3,7 +3,7 @@ title: "Offset and Noise Behavior of Microfabricated AlGaN/GaN Two-dimensional E
 collection: talks
 type: "Talk"
 permalink: /talks/TuDelftColloq_2021
-venue: "TU Delft Dept. Microelectronics, (Virtual)"
+venue: "TU Delft Department of Microelectronics"
 date: 2021-01-28
-location: "[Virtual] Delft, The Netherlands"
+location: "Delft, The Netherlands (Virtual)"
 ---
