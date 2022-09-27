@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* 2019–2022 – Postdoctoral Research Staff, Lawrence Livermore National Laboratory, Materials Engineering Division
+* Postdoctoral Research Staff, Lawrence Livermore National Laboratory, Materials Engineering Division, 2019–2022
 
-* 2018 – Engineering Intern, Infineon Technologies, PMM Innovation Sensors Group & Industrial Power SiC MOSFETs Group
+* Engineering Intern, Infineon Technologies, PMM Innovation Sensors Group & Industrial Power SiC MOSFETs Group, 2018
 
-* 2015 – Engineering Intern, MIT Lincoln Laboratory, RF Technology
+* Engineering Intern, MIT Lincoln Laboratory, RF Technology, 2015
 
 Awards
 ======
