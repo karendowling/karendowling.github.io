@@ -63,4 +63,4 @@ Service and leadership
 2020 – Committee panel for Career Pathways at POETS Annual Meeting  
 2018 – Middle school activity with Nano outreach: “Making your own Edible wafer,” Stanford SPLASH  
 2017 – Guest lecture: “How are Chips Made & Magnetic Sensing in Harsh Environments,” Cañada Community College, Redwood City, CA, US
-2016 – High school activity with Women in EE: “Build you own Speaker,” Stanford SPLASH  
+2016 – High school activity with Women in EE: “Build your own Speaker,” Stanford SPLASH  
