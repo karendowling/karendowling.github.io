@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Magnetic (Ultra)-Wide bandgap Sensors with Integrated Circuits (MUSIC)"
+title: "MUSIC Lab: Magnetic (Ultra)-Wide bandgap Sensors with Integrated Circuits, led by Dr. Karen Dowling"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
