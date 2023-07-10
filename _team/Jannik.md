@@ -1,7 +1,7 @@
 ---
 title: "MSc. Jannik Strube"
 excerpt: ""
-collection: portfolio
+collection: team
 ---
 
 We welcome Jannik as our first PhD candidate!
