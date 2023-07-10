@@ -1,6 +1,6 @@
 ---
 title: "MSc. Jannik Strube"
-excerpt: "Welcome Jannik!"
+excerpt: "Welcome Jannik! <br/><img src='/images/Jannik1.jpg'>"
 collection: team
 
 ---
