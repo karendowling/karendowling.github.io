@@ -1,8 +1,8 @@
 ---
 title: "MSc. Jannik Strube"
-excerpt: ""
+excerpt: "Welcome Jannik!"
 collection: team
-permalink: /team/JStrube
+
 ---
 
 We welcome Jannik as our first PhD candidate!
