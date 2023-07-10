@@ -5,4 +5,4 @@ collection: team
 
 ---
 
-We welcome Jannik as our first PhD candidate!!
+We welcome Jannik as our first [PhD candidate] (https://ei.tudelft.nl/People/bio.php?id=924) 
