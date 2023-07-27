@@ -9,6 +9,6 @@ author_profile: true
 
 
 {% for post in site.team %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 
