@@ -4,7 +4,7 @@ title: "Team Members"
 permalink: /team/
 author_profile: true
 header:
-
+  og_image:
 ---
 Page is still underconstruction, pardon the formatting!
 <nbsp>
