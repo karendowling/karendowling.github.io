@@ -13,7 +13,7 @@ author_profile: true
 
 {% assign i = 0 %}
 
-<h2>GaN Hall-effect Sensors</h2>
+<h2>Novel Hall-effect Sensors</h2>
 
 {% for post in site.publications reversed %}
   {% if post.category == 'Hall' %}
