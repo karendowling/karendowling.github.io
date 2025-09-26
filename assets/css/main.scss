@@ -58,7 +58,7 @@
 
 .team-card .avatar {
   width: 180px;          /* set the visual size */
-  height: 220px;         /* make height different for an OVAL */
+  aspect-ratio: 4 / 5;   /* same visual shape as 180x220 */
   overflow: hidden;
   border-radius: 50% / 45%;  /* oval; for a perfect circle use just 50% */
   box-shadow: 0 2px 10px rgba(0,0,0,.08);
@@ -80,4 +80,13 @@
 .team-card .role {
   color: #666;
   font-size: 0.95rem;
+}
+
+.team-card {
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.team-card:where(:hover, :focus-visible) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0,0,0,.08);
+  outline: none;
 }
