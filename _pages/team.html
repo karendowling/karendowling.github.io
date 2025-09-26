@@ -1,12 +1,20 @@
 ---
-layout: archive
+layout: single
 title: "Team Members"
 permalink: /team/
 author_profile: true
 ---
-<br/><br/> 
-{% include base_path %}
-{% for post in site.team %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
 
+{% assign members = site.team | sort: "order" %}
+
+<div class="team-grid">
+  {% for m in members %}
+  <a class="team-card" href="{{ m.url | relative_url }}">
+    <div class="avatar">
+      <img src="{{ m.image | relative_url }}" alt="{{ m.title }}">
+    </div>
+    <div class="name">{{ m.title }}</div>
+    {% if m.role %}<div class="role">{{ m.role }}</div>{% endif %}
+  </a>
+  {% endfor %}
+</div>
