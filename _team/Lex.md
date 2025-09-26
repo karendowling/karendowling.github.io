@@ -1,6 +1,7 @@
 ---
 title: "Mr. Lex Pardon"
-excerpt: "<br/><img src='/images/Lex.jpg'>"
+role: "MSc Candidate"
+image: /images/Lex.jpg
 collection: team
 permalink: /team/Lex
 
