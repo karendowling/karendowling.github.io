@@ -1,6 +1,7 @@
 ---
 title: "MSc. Jannik Strube"
-excerpt: "<br/><img src='/images/Jannik1.jpg'>"
+role: "PhD Candidate"
+image: /images/Jannik1.jpg
 collection: team
 permalink: /team/Jannik
 
